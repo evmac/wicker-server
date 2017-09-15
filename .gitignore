@@ -1,4 +1,9 @@
+library
 node_modules
+objects
 public
+tmp
 
 package-lock.json
+user.config.js
+wicker.config.js

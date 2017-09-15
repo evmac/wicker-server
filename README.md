@@ -1,2 +1,5 @@
 # wicker-server
-A media player that works.
+Server for wicker.
+
+## Build
+// todo
